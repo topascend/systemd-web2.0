@@ -1,3 +1,7 @@
+# systemd-web 
+## 安装步骤:
+### 下载 systemd-web 文件放在linux任意目录,例如 /home/
+
 请输入要使用的端口号(默认9002): 
 请输入安全入口(默认4DPOVQF62T): 
 请输入登录用户名(默认admin): 

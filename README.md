@@ -47,7 +47,7 @@ Systemd Web 还提供了强大的日志管理功能，用户可以通过 Web 界
 [systemd-web] http://127.0.0.1:9002/4DPOVQF62T
 [systemd-web]=================安装信息==================
 ```
-<img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/a4.png" />
+<img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/a4.jpg" />
 ### 4. 默认自动启动,不需要此步 手动启动 ./systemd-web
 
 ### 访问 Web 界面
@@ -62,9 +62,9 @@ Systemd Web 还提供了强大的日志管理功能，用户可以通过 Web 界
 
 Systemd Web 结合了 Systemd 的强大功能与 Web UI 的直观便捷，为 Linux 系统的管理带来了极大的便利。无论是专业的系统管理员还是普通的用户，都可以通过 Systemd Web 轻松地管理 Linux 系统和服务，确保系统的稳定性和功能的完整性。
 
-<img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/a1.png" />
-<img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/a2.png" />
-<img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/a3.png" />
+<img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/a1.jpg" />
+<img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/a2.jpg" />
+<img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/a3.jpg" />
 <img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/1.png" />
 <img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/2.png" />
 <img src="https://raw.githubusercontent.com/topascend/systemd-web2.0/main/3.png" />

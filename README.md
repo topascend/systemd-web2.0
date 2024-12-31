@@ -1,6 +1,7 @@
 # Systemd Web
 
 Systemd Web 是一个 Systemd 的 Web UI 管理系统，通过直观的界面和易用的操作，让用户能够轻松地管理 Linux 系统和服务。该项目旨在简化 Systemd 的使用，使得无论是专业的系统管理员还是普通的用户，都能够方便地对系统进行操作。
+Systemd 可以是 Supervisor 的替代,Supervisor 安装麻烦需要python环境,以及占用内存大等缺点。Systemd Web 可以是 Supervisor Web的替代和高级功能。
 ## [github地址] (https://github.com/topascend/systemd-web2.0)
 
 ## 功能特性
@@ -72,12 +73,4 @@ Systemd Web 结合了 Systemd 的强大功能与 Web UI 的直观便捷，为 Li
 
 ##  [阮一峰老师的Systemd教程](http://www.ruanyifeng.com/blog/2016/03/systemd-tutorial-commands.html)
 
-### 感谢
-#### GoFrame
-GoFrame 是一款模块化、高性能、企业级的 Go Web 开发框架，它提供了丰富的功能和灵活的扩展性，使我们的后端开发变得更为高效和便捷。  
-[GoFrame 官方文档](https://goframe.org/)
-
-#### Layui
-Layui 是一款非常受欢迎的前端 UI 框架，它以简单模块化的方式构建，为快速开发提供了良好的支持。Layui 的丰富组件和优美的界面设计，为我们的前端页面增色不少。  
-[Layui 官方文档](https://github.com/layui/layui)  
   

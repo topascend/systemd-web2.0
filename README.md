@@ -30,6 +30,10 @@ Systemd Web 还提供了强大的日志管理功能，用户可以通过 Web 界
 #### 1. 下载 systemd-web 文件放在linux任意目录,例如 /home/systemd-web/systemd-web
 #### 2. 赋予执行权限 cd /home/systemd-web && chmod 7777 systemd-web
 #### 3. 执行安装命令  ./systemd-web install
+#### systemctl start systemd-web.service 重启
+#### systemctl restart systemd-web.service 重启
+#### systemctl stop systemd-web.service 重启
+#### systemctl status systemd-web.service 重启
 ```
 请输入要使用的端口号(默认9002):
 请输入安全入口(默认4DPOVQF62T):
